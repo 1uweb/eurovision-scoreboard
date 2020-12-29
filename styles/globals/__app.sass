@@ -39,7 +39,7 @@ html, body
   width: 100%
   height: 100%
   background: var(--background)
-  color: $text
+  color: var(--text)
   font-size: 10px
   font-family: "DM Sans", X-LocaleSpecific, sans-serif
 
@@ -48,8 +48,8 @@ html, body
   hyphens: auto
 
 ::selection
-  color: $text-hero
-  background: $color-theme
+  color: var(--text-hero)
+  background: var(--color-theme)
   text-shadow: none
 
 *, ::after, ::before
@@ -68,11 +68,11 @@ button
   padding: 1.25rem 6rem
   border: none
   border-radius: .25rem
-  background-color: $color-theme
-  color: $text-hero
+  background-color: var(--color-theme)
+  color: var(--text-hero)
   transition: all 0.25s cubic-bezier(.77,0,.175,1)
   &:hover
-    background-color: $color-theme-bright
+    background-color: var(--color-theme-bright)
     cursor: pointer
 
 img
@@ -101,7 +101,7 @@ strong
 
 a
   text-decoration: none
-  color: $color-theme
+  color: var(--color-theme)
   position: relative
   &:hover::after
     transform: scaleX(1)
@@ -113,7 +113,7 @@ a
     left: 0
     width: 100%
     height: .1rem
-    background-color: $color-theme
+    background-color: var(--color-theme)
     transition: transform .5s cubic-bezier(.77,0,.175,1)
     transform: scaleX(0)
     transform-origin: right
@@ -156,3 +156,20 @@ a
     font-weight: 400
   ul
     font-weight: 400
+
+.NotFound
+  width: 100%
+  height: 100vh
+  display: flex
+  justify-content: center
+  align-items: center
+  text-align: center
+  a
+    &::after
+      content: none
+  h1
+    margin: .5rem 0
+  p
+    text-align: center
+    margin: 0 0 2.5rem 0
+    opacity: .5

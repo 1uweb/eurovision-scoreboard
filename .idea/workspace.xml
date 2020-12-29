@@ -2,74 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca7b0492-4ba4-4e28-ab77-9b56654ede0f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/eurovision-database.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/AppFooter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Components/AppNav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/dm-sans-v5-latin-500.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/dm-sans-v5-latin-500.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/dm-sans-v5-latin-700.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/dm-sans-v5-latin-700.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/dm-sans-v5-latin-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/fonts/dm-sans-v5-latin-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Albania.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Armenia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Australia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Austria.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Azerbaijan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Belarus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Belgium.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Bulgaria.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Croatia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Cyprus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/CzechRepublic.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Denmark.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Estonia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Finland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/France.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Georgia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Germany.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Greece.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Iceland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Ireland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Israel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Italy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Latvia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Lithuania.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Malta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Moldova.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Netherlands.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/NorthMacedonia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Norway.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Poland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Portugal.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Romania.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Russia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/SanMarino.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Serbia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Slovenia.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Spain.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Sweden.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Switzerland.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/Ukraine.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/content/esc-flags-2021/UnitedKingdom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/theme/ESC2021_Rotterdam_web_black.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/theme/ESC2021_Rotterdam_web_black.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/theme/ESC2021_Rotterdam_web_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/theme/ESC2021_Rotterdam_web_white.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/AppFooter.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/AppNav.module.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/globals/__app.sass" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/globals/__fonts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles/globals/__var.sass" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/TopProgressBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/404.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/content/participants/albania.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/theme/esc-2021-theme-thumbnail.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/theme/esc_background_large.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/theme/esc_background_medium.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/theme/eurovision-banner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/globals/nprogress.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/AppNav.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/AppNav.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.scss" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals/__app.sass" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals/__app.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals/__var.sass" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals/__var.sass" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,8 +32,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Sass File" />
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -106,7 +57,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/public/images/theme" />
-    <property name="list.type.of.created.stylesheet" value="Sass" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -114,10 +65,10 @@
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\barthel-uwe\eurovision\eurovision-database\public\images\theme" />
+      <recent name="E:\barthel-uwe\eurovision\eurovision-database\public\images\content\participants" />
       <recent name="E:\barthel-uwe\eurovision\eurovision-database\public" />
       <recent name="E:\barthel-uwe\eurovision\eurovision-database\styles" />
       <recent name="E:\barthel-uwe\eurovision\eurovision-database\Components" />
-      <recent name="E:\barthel-uwe\eurovision\eurovision-database\public\fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\barthel-uwe\eurovision\eurovision-database\public\images\content" />
@@ -151,6 +102,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609239499921</updated>
       <workItem from="1609239502918" duration="3016000" />
+      <workItem from="1609245017675" duration="3245000" />
     </task>
     <servers />
   </component>
